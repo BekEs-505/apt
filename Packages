@@ -1,1 +1,32 @@
+Package: com.bekes-505.github.io.filzascriptdev
+Version: 2.0
+Architecture: all
+Maintainer: @B6_7E
+Depends: dpkg, ldid, file, odcctools, com.bingner.plutil
+Filename: debs/FilzaScripts.deb
+Size: 18252
+MD5sum: 88fbc7c17390fdcb3cd9242c77147abf
+SHA1: bcc3cbcbe7bdde8f9c5af81577e849eb7883261d
+SHA256: f8df9bd3f92cf9fefa4b05fcb8d8b86ec828090e8272bf4cf0a0e5eeb384a2e3
+Section: Tweaks
+Description: اداة وظيفتها : سكربتات لفيلزا وامر مهمه لفل روت و الروثليس لتحويل ادوات والكثير
+Author: BekEs - بيكاس
+Name: Filza Scripts
+
+Package: com.yourname.wamultisend
+Version: 1.0.0-1+debug
+Architecture: iphoneos-arm64
+Maintainer: YourName
+Installed-Size: 172
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), firmware (<< 16.9)
+Filename: debs/com.yourname.wamultisend_1.0.0-1+debug_iphoneos-arm64.deb
+Size: 7650
+MD5sum: 12001b2f6e53ef5e86c26167b6a37613
+SHA1: b56c9c85086584ef0158b57e3847eea8226bbac2
+SHA256: 38efb6296cdc82659d4bb3ca707a54f0c0f44bf1ea08d9fa809e9a72b430d707
+Section: Tweaks
+Description: إرسال متعدد للواتساب بالضغط الطويل
+Tag: purpose::extension, compatible_min::ios15.0, compatible_max::ios16.9
+Author: YourName
+Name: WA MultiSend Rootless
 
