@@ -30,6 +30,22 @@ Description: اداة وظيفتها : اضافة اختصار في مركز ا�
 Author: BekEs - بيكاس
 Name: Cardculator Rootless
 
+Package: com.bekes-505.github.io.erikarootless
+Version: 1.13.3
+Architecture: iphoneos-arm64
+Maintainer: @B6_7E
+Installed-Size: 368
+Depends: mobilesubstrate, lilliana.async | firmware (>= 15.0)
+Filename: debs/ErikaRootless.deb
+Size: 128614
+MD5sum: f533e9380621f46dc832eb0c42c642f6
+SHA1: 9c45171e849f46da92a206bd3c6c9703d394192e
+SHA256: 64b39100fde13b1751f7fafc19c04cb34405e8ac458a59748ca431bb51d946a5
+Section: Tweaks
+Description: اداة وظيفتها : تمكنك من تحميل الادوات المدفوعه بشكل مجاني "قم بالضغط على صورة الاداة داخل الوصف لتثبيتها
+Author: BekEs - بيكاس
+Name: Erika Rootless
+
 Package: com.bekes-505.github.io.filzascriptdev
 Version: 2.0
 Architecture: all
@@ -44,6 +60,24 @@ Section: Tweaks
 Description: اداة وظيفتها : سكربتات لفيلزا وامر مهمه لفل روت و الروثليس لتحويل ادوات والكثير
 Author: BekEs - بيكاس
 Name: Filza Scripts
+
+Package: com.bekes-505.github.io.sneakycarotless
+Version: 2.0.7.1
+Architecture: iphoneos-arm64
+Maintainer: @B6_7E
+Installed-Size: 560
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.bekes-505.github.io.sneakycam
+Filename: debs/SneakyCamRootless.deb
+Size: 138456
+MD5sum: 3ef6fa86163a530a300f202c8001bdf5
+SHA1: 9dd3deae87be85112f3b6561c31d46e4c6cb69af
+SHA256: db5b79dd25189b31c76cdc3f841632511e153798be620f11b69f475e2a423b9c
+Section: Tweaks
+Description: اداة وظيفتها : تصوير الخفي بدون علم الاشخاص ويمكن ان تشتغل في اي مكان في الجهاز صورة و فيديو ضغطتين على خفض الصوت يصور ضغطتين على رفع الصوت يصور فيديو حتى لو كانت الشاشه مغلق
+Author: BekEs - بيكاس
+Name: SneakyCam Rootless
+Sponsor: BekEs - بيكاس
 
 Package: com.yourname.wamultisend
 Version: 1.0.0-1+debug
@@ -61,19 +95,4 @@ Description: إرسال متعدد للواتساب بالضغط الطويل
 Tag: purpose::extension, compatible_min::ios15.0, compatible_max::ios16.9
 Author: YourName
 Name: WA MultiSend Rootless
-
-
-Package: ErikaRootless
-Version: 1.0.0
-Architecture: iphoneos-arm64
-Maintainer: Package Maintainer
-Description: Description of the package
-Depends: firmware (>= 14.0)
-Homepage: https://example.com
-Filename: debs/ErikaRootless.deb
-Size: 128614
-MD5sum: f533e9380621f46dc832eb0c42c642f6
-SHA1: 9c45171e849f46da92a206bd3c6c9703d394192e
-SHA256: 64b39100fde13b1751f7fafc19c04cb34405e8ac458a59748ca431bb51d946a5
-Section: Utilities
 
