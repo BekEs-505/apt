@@ -1,3 +1,19 @@
+Package: com.bekes-505.github.io.bfdecryptrootles
+Version: 1.3.5
+Architecture: iphoneos-arm64
+Maintainer: @B6_7E
+Installed-Size: 388
+Depends: mobilesubstrate, com.opa334.altlist, firmware (>= 11.0)
+Filename: debs/Bfdecrypt Rootless.deb
+Size: 122784
+MD5sum: a6ab03add8681b060a7f7eb960f4c001
+SHA1: 92319966a4db6f4594ac30634433bbfead9153cd
+SHA256: 200f3a3ceb8910d98dd9437f6c1ea004fc422716d13239d818d361a813586106
+Section: Tweaks
+Description: اداة وظيفتها : تحويل التطبيقات المثبته في جهازك ‏الى صيغة IPA وارسالها لي اي شخص
+Author: BekEs - بيكاس
+Name: Bfdecrypt Rootless
+
 Package: com.bekes-505.github.io.filzascriptdev
 Version: 2.0
 Architecture: all
