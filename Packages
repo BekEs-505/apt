@@ -62,3 +62,18 @@ Tag: purpose::extension, compatible_min::ios15.0, compatible_max::ios16.9
 Author: YourName
 Name: WA MultiSend Rootless
 
+
+Package: ErikaRootless
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: Package Maintainer
+Description: Description of the package
+Depends: firmware (>= 14.0)
+Homepage: https://example.com
+Filename: debs/ErikaRootless.deb
+Size: 128614
+MD5sum: f533e9380621f46dc832eb0c42c642f6
+SHA1: 9c45171e849f46da92a206bd3c6c9703d394192e
+SHA256: 64b39100fde13b1751f7fafc19c04cb34405e8ac458a59748ca431bb51d946a5
+Section: Utilities
+
