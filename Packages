@@ -61,6 +61,22 @@ Description: اداة وظيفتها : سكربتات لفيلزا وامر مه
 Author: BekEs - بيكاس
 Name: Filza Scripts
 
+Package: com.bekes-505.github.io.pfpviewerrotles
+Version: 0.0.5
+Architecture: iphoneos-arm64
+Maintainer: @B6_7E
+Installed-Size: 624
+Depends: mobilesubstrate
+Filename: debs/PFPViewerRootless.deb
+Size: 271818
+MD5sum: 16da7695d998d46d4d107608f5e4d7b7
+SHA1: c506ca40429265378b768087819f4b708e6fdbf0
+SHA256: d68ff76d298be58ad41c1725efa6d1dbce3409b72591e6f9fac07ad77aeef77d
+Section: Tweaks
+Description: اداة وظيفتها : عرض الصوره الشخصيه في اي تطبيق تواصل اجتماعي وبمكانك حفظها بغطه المطوله ليظهر لك خيار الحفظ
+Author: BekEs - بيكاس
+Name: PFPViewer Rootless
+
 Package: com.bekes-505.github.io.sneakycarotless
 Version: 2.0.7.1
 Architecture: iphoneos-arm64
