@@ -30,6 +30,23 @@ Description: اداة وظيفتها : اضافة اختصار في مركز ا�
 Author: BekEs - بيكاس
 Name: Cardculator Rootless
 
+Package: com.bekes-505.github.io.enekoRootless
+Version: 1.4
+Architecture: iphoneos-arm64
+Maintainer: @B6_7E
+Installed-Size: 400
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
+Conflicts: love.litten.eneko
+Filename: debs/EnekoRootless.deb
+Size: 48846
+MD5sum: 235c8b15f7620698235600a061438e37
+SHA1: 2ea3cdf242c7991025680e0b8b88559b6154ce77
+SHA256: 7cc401d87db3fa76dd141eabd3593b556cb58b1a946be9ef115b1ddb56cc31c5
+Section: Tweaks
+Description: اداة وظيفتها: تعيين مقطع فيديو كخلفية للشاشة القفل والشاشة الرئيسية ومركز التحكم
+Author: BekEs - بيكاس
+Name: Eneko Rootless
+
 Package: com.bekes-505.github.io.erikarootless
 Version: 1.13.3
 Architecture: iphoneos-arm64
