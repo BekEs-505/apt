@@ -1,3 +1,19 @@
+Package: com.bekes-505.github.io.avtoolsrootless
+Version: 1.1-1
+Architecture: iphoneos-arm64
+Maintainer: @B6_7E
+Installed-Size: 204
+Depends: firmware (>= 13.0),mobilesubstrate, cm90.crossoveripc
+Filename: debs/AVToolsRootless.deb
+Size: 24896
+MD5sum: e64c926767f2ceb7685a46b7379e367d
+SHA1: 1a289c00f8d1b23226ac70f8224262ea8b7ce058
+SHA256: 4b7be0273a942e20f89f413c9360585c5a8bd01c4ac09c9b22613e3cc2d319f7
+Section: Tweaks
+Description: اداة وظيفتها : تقديم المقطع في المشغل الايفون الاساسي من 15 ثانية الي اي وقت تضعه انت وفيه ميزة اغلاق تحرك الجوال وقفل على حسب الاتجاه
+Author: BekEs - بيكاس
+Name: AVTools Rootless
+
 Package: com.bekes-505.github.io.bfdecryptrootles
 Version: 1.3.5
 Architecture: iphoneos-arm64
@@ -29,6 +45,23 @@ Section: Tweaks
 Description: اداة وظيفتها : اضافة اختصار في مركز التحكم يفتح لك آله حاسبة مصغره دون الحاجه الى فتح التطبيق الخاص بالحاسبه
 Author: BekEs - بيكاس
 Name: Cardculator Rootless
+
+Package: com.bekes-505.github.io.cylinderootless
+Version: 1.1.1
+Architecture: iphoneos-arm64
+Maintainer: @B6_7E
+Installed-Size: 1123
+Depends: firmware (>= 15.0), ellekit (>= 0.3), preferenceloader
+Filename: debs/CylinderRebornRootless.deb
+Size: 318652
+MD5sum: ef3860de78db4730232039de5f9de604
+SHA1: cc66deffa3626861c066ca20b4211edf6cd24c8b
+SHA256: 44f54629b0a309d813252bfec161355447123123d3231acc297f3a435d11f818
+Section: Tweaks
+Description: اداة وظيفتها : تغير طريقة حركة الايقونات عند التنقل بين الصفحات بحركات من اختيارك
+Tag: compatible_min::ios11.0
+Author: BekEs - بيكاس
+Name: Cylinder Reborn Rootless
 
 Package: com.bekes-505.github.io.enekoRootless
 Version: 1.4
@@ -77,6 +110,22 @@ Section: Tweaks
 Description: اداة وظيفتها : سكربتات لفيلزا وامر مهمه لفل روت و الروثليس لتحويل ادوات والكثير
 Author: BekEs - بيكاس
 Name: Filza Scripts
+
+Package: com.bekes-505.github.io.floatingrootless
+Version: 1.9
+Architecture: iphoneos-arm64
+Maintainer: @B6_7E
+Installed-Size: 812
+Depends: preferenceloader
+Filename: debs/FloatingDockXVIRootless.deb
+Size: 415586
+MD5sum: 09e5fa4deb07e110297d378af009fdec
+SHA1: f6f2d354caa4b860f9e395d0007c3c8fc55cce95
+SHA256: 4107ba1d76223699c0368378cf03f6311287a3f70da003b219d185b44d66fa39
+Section: Tweaks
+Description: اداة وظيفتها : جلب ميزة وشكل الدوك السفلي الموجود في اجهزة الايباد الى الايفون
+Author: BekEs - بيكاس
+Name: FloatingDockXVI Rootless
 
 Package: com.bekes-505.github.io.pfpviewerrotles
 Version: 0.0.5
