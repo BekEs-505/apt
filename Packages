@@ -111,6 +111,118 @@ Description: اداة وظيفتها : جلب ميزة وشكل الدوك ال�
 Author: BekEs - بيكاس
 Name: FloatingDockXVI Rootless
 
+Package: com.bekes-505.github.io.icleanerrootless
+Version: 7.10.0
+Architecture: iphoneos-arm64
+Maintainer: @B6_7E
+Depends: firmware (>= 4.0), findutils, apt | apt7
+Conflicts: org.altervista.exilecom.icleaner
+Replaces: org.altervista.exilecom.icleaner
+Filename: debs/iCleanerProRootless.deb
+Size: 1392858
+MD5sum: 69822336a3de13df106b39de24b793f3
+SHA1: 577510c2b0b0932dafd179c2156b77590fd4108d
+SHA256: fcc91af75f246f27b9d7d69e05a0cee09994cb5e29a72ddab282378765ef092d
+Section: Tweaks
+Description: اداة وظيفتها :  بعمل تنظيف للجهاز وحذف الملفات الكاش والملفات التالفة الاداة تحتوي على العديد من الخيارات ايقاف التحديث التلقائي ايقاف عمل بعض الادوات والعديد من الخيارات
+Author: BekEs - بيكاس
+Name: iCleaner Pro Rootless
+
+Package: com.bekes-505.github.io.ikeywi4rootless
+Version: 4.2.1
+Architecture: iphoneos-arm64
+Maintainer: @B6_7E
+Depends: preferenceloader, mobilesubstrate, firmware (>= 11.0), com.opa334.altlist
+Filename: debs/iKeywi4Rootless.deb
+Size: 383344
+MD5sum: 63d96f06998973cc55c2ff0d14b60ada
+SHA1: 0a60c9e9b38467bf5a3cb4db066b902d1928e3e5
+SHA256: af68f463138ac97a715c1a9c21056c21237b99ff2f58bccb00498349a96159ae
+Section: Tweaks
+Description: اداة وظيفتها : إضافة صف أرقام للوحة المفاتيح أو إظهارها كما في الـ iPad بشكل ثانوي، مع إمكانية تخصيص مفاتيح هذا الصف
+Author: BekEs - بيكاس
+Name: iKeywi 4 Rootless
+
+Package: com.bekes-505.github.io.injectiparotles
+Version: 1.4-4
+Architecture: iphoneos-arm64
+Maintainer: @B6_7E
+Installed-Size: 3508
+Depends: firmware (>= 15.0)
+Filename: debs/injectipaRootless.deb
+Size: 1361916
+MD5sum: 93b962cb53f7980d64f4f69b21ff5b38
+SHA1: f87f933aed9648d4a0ee4ecc7e7655bb459b12c5
+SHA256: 61b6752ccb9e3894c3dcb8f96d2dd2fef9068a203278a1accd9465cf36788543
+Section: Tweaks
+Description: اداة وظيفتها : دمج ملف dylib في ipa بواسطة NewTerm
+Author: BekEs - بيكاس
+Name: injectipa Rootless
+
+Package: com.bekes-505.github.io.jodelrootless
+Version: 1.1.8
+Architecture: iphoneos-arm64
+Maintainer: @B6_7E
+Installed-Size: 172
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0)
+Filename: debs/JodelEMPROVEDRootless.deb
+Size: 47542
+MD5sum: 3825058318923528e7897e609b74b1c5
+SHA1: 284309d213d859e7de9b2a73b512935ccee2695a
+SHA256: efde82e85e0b1c7a44eb7c9e23feaf94bfeebaa513952ff47327c8f992f08c1a
+Section: Tweaks
+Description: اداة وظيفتها : يودل بلس و نسخ ولصق و رفع وتحميل الصور و تغيير الموقع و التخفي عند تصوير الشاشة
+Author: BekEs - بيكاس
+Name: Jodel EMPROVED Rootless
+
+Package: com.bekes-505.github.io.kayokorootless
+Version: 1.4.2
+Architecture: iphoneos-arm64
+Maintainer: @B6_7E
+Installed-Size: 956
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Filename: debs/KayokoRootless.deb
+Size: 163918
+MD5sum: 987e6b160e4b268418109b436f531c89
+SHA1: ef712ce7182b2a9220d650916610612df139169d
+SHA256: a0cfdc571731140ffc0926c15c8a9cf4d191b45023785292a046ef3f1e53de2b
+Section: Tweaks
+Description: اداة وظيفتها : نسخ النصوص المتعدد مع امكانية الرجوع لها او حفظها في حافظة خاصه للرجوع لها في وقت لاحق
+Author: BekEs - بيكاس
+Name: Kayoko Rootless
+
+Package: com.bekes-505.github.io.keyboardtoolsrotles
+Version: 1.4-1
+Architecture: iphoneos-arm64
+Maintainer: @B6_7E
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: debs/KeyboardToolsRootless.deb
+Size: 11930
+MD5sum: 559b27fcdc98860ef9115b0660df9d72
+SHA1: 11e9405bdaab7ada69b92523672dc3074386dbe7
+SHA256: c502b8b646ba758d5ab469433167c81ea6f6827d3eaa40cae31f62a81168665f
+Section: Tweaks
+Description: اداة وظيفتها : تستبدل لك خيارت التنبؤو بالكيبورد الى خيارات النسخ واللصق وتحديد الكل
+Author: BekEs - بيكاس
+Name: KeyboardTools Rootless
+
+Package: com.bekes-505.github.io.lastlookrootless
+Version: 3.6.5
+Architecture: iphoneos-arm64
+Maintainer: @B6_7E
+Installed-Size: 1365
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15), firmware (>= 12.0)
+Filename: debs/LastLookRootless.deb
+Size: 501098
+MD5sum: 948824d9abb5b7b3ffd779ba9b67a131
+SHA1: 9dc64b445969f18f5064851a330892ef917c3e89
+SHA256: 37a64f110c6012a632ff40ff143a39d7f80fb4ef3d88240f413fbdf230b44a3f
+Section: Tweaks
+Description: اداة وظيفتها : تعطيك ميزة عرض دائما ميزة تبقي الشاشة مضيئة بعد قفل الجهاز بنظام مثل نظام الاندرويد  لتتمكن من رؤية الاشعارات والوقت والتاريخ دون فتح القفل
+Author: BekEs - بيكاس
+Name: LastLook Rootless
+
 Package: com.bekes-505.github.io.pfpviewerrotles
 Version: 0.0.5
 Architecture: iphoneos-arm64
