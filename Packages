@@ -257,6 +257,60 @@ Author: BekEs - بيكاس
 Name: SneakyCam Rootless
 Sponsor: BekEs - بيكاس
 
+Package: com.bekes-505.github.io.whatsapprevaelrotles
+Version: 10.23-1+debug
+Architecture: iphoneos-arm64
+Maintainer: @B6_7E
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), preferenceloader
+Conflicts: org.thebigboss.whatsapprevaelrootless
+Filename: debs/WhatsappRevaelRootless.deb
+Size: 1524044
+MD5sum: e031998503f212ad2854291a95a5c4d6
+SHA1: 104ab4ab4367435d6f7ec6c263b713678b2745a1
+SHA256: 7f525257e0577ead4031f3cdc0eab0002a02a8c64187f796709f0b92c73f6928
+Section: Tweaks
+Description: اداة وظيفتها : مميزات للواتس اخفاء الاتصال و اخفاء القراءة و ارسال مقطع طويل بالستوري بدون قص تعطيك الكثير من المميزات في تطبيق الواتساب وات ساب بلس
+Tag: purpose::extension
+Author: BekEs - بيكاس
+Name: Whatsapp Revael Rootless
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: com.bekes-505.github.io.wikplusrootless
+Version: 12.77.0.42-1+debug
+Architecture: iphoneos-arm64
+Maintainer: @B6_7E
+Depends: mobilesubstrate
+Filename: debs/WikPlusRootless.deb
+Size: 351004
+MD5sum: 75754397eea09264bfb15b6905a5757d
+SHA1: 00a721f04f1bebe3f3b872ff0282db30bf59007a
+SHA256: f79b76e6381864f48252ca2aaa781d755291696be5ebbe2a2a5253490a1256f9
+Section: Tweaks
+Description: اداة وظيفتها : رفع الصور والفيديو من الالبوم توافق حتى اخر اصدار سناب شات والاصدارات السابقة وحفظ فيديو من محادثة الخاص وحفظ الصور من الخاص
+Author: BekEs - بيكاس
+Name: WikPlus Rootless
+Sponsor: wikplus store
+
+Package: com.bekes-505.github.io.wolfrootless
+Version: 2.1
+Architecture: iphoneos-arm64
+Maintainer: @B6_7E
+Installed-Size: 12212
+Depends: mobilesubstrate, firmware (>= 5.0)
+Filename: debs/WolfRootless.deb
+Size: 3901326
+MD5sum: 661b8d1b65379c9d3db8a9f1ab3ce4ca
+SHA1: c1937aa5d258cd2ce1d0d2bfdf1c61c98927c9f0
+SHA256: 4b6301ca98456ce782a2e9a98c43d3db84bbf1296ac2955a3da71c1584120ba5
+Section: Tweaks
+Priority: optional
+Description: اداة وظيفتها : فيسبوك بلس حفظ الفيديو والصور ومنع الاعلانات تعطيل انك شفت الخاص تعطيل معرفة انك تكتب، تعطيل انك ما شفت الاستوري، تعطيل التقدم التلقائي في الاستوري
+Tag: purpose::extension
+Author: BekEs - بيكاس
+Dev: lema
+Name: Wolf Rootless
+Sponsor: thebigboss.org <http://thebigboss.org>
+
 Package: com.yourname.wamultisend
 Version: 1.0.0-1+debug
 Architecture: iphoneos-arm64
@@ -273,4 +327,20 @@ Description: إرسال متعدد للواتساب بالضغط الطويل
 Tag: purpose::extension, compatible_min::ios15.0, compatible_max::ios16.9
 Author: YourName
 Name: WA MultiSend Rootless
+
+Package: dev.zero.wickedfr33
+Version: 2.0.3a
+Architecture: iphoneos-arm64
+Maintainer: @B6_7E
+Depends: mobilesubstrate
+Conflicts: dev.zero.wicked
+Filename: debs/wickedRootless.deb
+Size: 3909276
+MD5sum: f0bf68e9d46fca6267f1d623d216d983
+SHA1: e296e6d9c7dcce88c83c8c2b66d7e3a0bb1ad398
+SHA256: 1105ad5789c66afabe8f9dc13a87a57563a2ac96ff200d188487ae4999963e42
+Section: Tweaks
+Description: اداة وظيفتها : سناب بلس حفظ ورفع وتخفي في الدردشة وتغير الموقع
+Author: BekEs - بيكاس
+Name: wicked Rootless
 
