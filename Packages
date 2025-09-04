@@ -30,22 +30,6 @@ Description: اداة وظيفتها : تحويل التطبيقات المثب�
 Author: BekEs - بيكاس
 Name: Bfdecrypt Rootless
 
-Package: com.bekes-505.github.io.cardculatorrootless
-Version: 2.1
-Architecture: iphoneos-arm64
-Maintainer: @B6_7E
-Installed-Size: 920
-Depends: dev.theos.orion14, firmware (>= 14.0), com.opa334.ccsupport (>= 1.3.7), com.ginsu.comet
-Filename: debs/CardculatorRootless.deb
-Size: 223056
-MD5sum: 5c1451ef405801d491e77950a285b958
-SHA1: cdb07ee1be1c27976a660bba8f60bce4d7dd39d1
-SHA256: 01797e4e140e3d6c617202a9ce1a9e679a91601eda80bb28ca932de145509c80
-Section: Tweaks
-Description: اداة وظيفتها : اضافة اختصار في مركز التحكم يفتح لك آله حاسبة مصغره دون الحاجه الى فتح التطبيق الخاص بالحاسبه
-Author: BekEs - بيكاس
-Name: Cardculator Rootless
-
 Package: com.bekes-505.github.io.cylinderootless
 Version: 1.1.1
 Architecture: iphoneos-arm64
