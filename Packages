@@ -257,6 +257,22 @@ Author: BekEs - بيكاس
 Name: SneakyCam Rootless
 Sponsor: BekEs - بيكاس
 
+Package: com.bekes-505.github.io.tgextrarootless
+Version: 1.4.0
+Architecture: iphoneos-arm64
+Maintainer: @B6_7E
+Installed-Size: 15894
+Filename: debs/TGExtraRootless.deb
+Size: 2424496
+MD5sum: b4af4546e7e222948335a0a1c2d7a9bf
+SHA1: 6fb55abb1e1a37195c854c4cf7954fb352ef20de
+SHA256: 48953428a297b7b7c0dcae00f46e36d26794005d997cb32c256c04d76c014a97
+Section: Tweaks
+Description: اداة وظيفتها : تيليقرام بلس حفظ المقاطع حتى لو صاحب القناة مقفل التحميل اخفاء انك شاهدة الرساله ومميزات كثير لتفعيلها اضغط ضغطه مطوله. على اسال سوال في اعدادات التليقرام
+Author: BekEs - بيكاس
+Header: https://raw.githubusercontent.com/BekEs-505/UP/refs/heads/main/BekEsHader.png
+Name: TGExtra Rootless
+
 Package: com.bekes-505.github.io.watranslatorootless
 Version: 1.3-2+debug
 Architecture: iphoneos-arm64
