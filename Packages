@@ -344,6 +344,22 @@ Dev: lema
 Name: Wolf Rootless
 Sponsor: thebigboss.org <http://thebigboss.org>
 
+Package: com.den.vsplusultra
+Version: 1.0-98+debug
+Architecture: iphoneos-arm64
+Maintainer: DeNsor
+Installed-Size: 240
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/VSPlusUltra_1.0-98+debug_iphoneos-arm64.deb
+Size: 44418
+MD5sum: 222ae1fb9ef43978ec6d563587c8beed
+SHA1: fbb2b921c4305c57584e59d2e54c503071a1fb7e
+SHA256: 59212fab3d407865cd4959e8b8aaeb57690fc0ed60aeed538c0542379ff60ee1
+Section: Tweaks
+Description: Make Videostar better
+Author: DeNsor
+Name: VSPlusUltra
+
 Package: com.yourname.wamultisend
 Version: 1.0.0-1+debug
 Architecture: iphoneos-arm64
