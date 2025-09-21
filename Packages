@@ -239,6 +239,56 @@ Description: اداة وظيفتها : عرض الصوره الشخصيه في �
 Author: BekEs - بيكاس
 Name: PFPViewer Rootless
 
+Package: com.bekes-505.github.io.reachplayerotles
+Version: 2.6
+Architecture: iphoneos-arm64
+Maintainer: @B6_7E
+Depends: firmware (>=13.0), mobilesubstrate
+Filename: debs/ReachPlayerRootless.deb
+Size: 152316
+MD5sum: 078418d1aedd04874da753598a30d5f1
+SHA1: 2383ecf5708b3436b32e66302d3b66fa53b5d08a
+SHA256: 02a4adc589a1ca324d6d7037fe558044699c94396e981b88ec3cb8c9d5d99cc8
+Section: Tweaks
+Description: اداة وظيفتها : تضيف لك مشغل الموسيقى في الشاشة الفراغ في الاعلى تشغيل الاداة السحب اسفل زر الهوم ستجد ان الشاشة ظهرت و تحصل مشغل الموسيقى
+Tag: role::enduser
+Author: BekEs - بيكاس
+Name: ReachPlayer Rootless
+Someotherentrytocontrol: True
+Tags: compatible_min::ios13.0, compatible_max::ios16.4
+
+Package: com.bekes-505.github.io.recordpausrotles
+Version: 1.4.0
+Architecture: iphoneos-arm64
+Maintainer: @B6_7E
+Installed-Size: 152
+Depends: mobilesubstrate, firmware (>= 9.0)
+Conflicts: org.thebigboss.recordpause, com.spicat.recordpause
+Filename: debs/RecordPauseRootless.deb
+Size: 12978
+MD5sum: 2d567d94d07084f7c6fbdec2a129422c
+SHA1: 1b03bff0a4fa2e920277cd5f536cefe403c666b8
+SHA256: bae3d42fb6b521f4b382a8c8818f7f616ab90ef5f875f5badbf5ff8237827407
+Section: Tweaks
+Description: اداة وظيفتها : تتيح لك امكانية عمل ايقاف مؤقت و إستئناف اثناء تصوير الفيديو عن طريق الضغط
+Author: BekEs - بيكاس
+Name: RecordPause Rootless
+
+Package: com.bekes-505.github.io.rgboardrootless
+Version: 1.0.5
+Architecture: iphoneos-arm64
+Maintainer: @B6_7E
+Depends: firmware (>=15.0), mobilesubstrate, preferenceloader, ws.hbang.common
+Filename: debs/RGBoardRootless.deb
+Size: 633000
+MD5sum: ada8718003f30fdfbb02f8e38a9c72a6
+SHA1: b7e993fc66ddc3f4d03a0600fec909961e25e168
+SHA256: f3222cf0601f87cd703f1d10de82c9a308f5521da39a6bbe7d32bc34b236ccec
+Section: Tweaks
+Description: اداة وظيفتها : تضيف لك اللوان ار جي بي  للكيبورد ووتغير تلقائي وكذالك تمكنك من تلوين الكيبورد ب أي لون تريده
+Author: BekEs - بيكاس
+Name: RGBoard Rootless
+
 Package: com.bekes-505.github.io.sneakycarotless
 Version: 2.0.7.1
 Architecture: iphoneos-arm64
