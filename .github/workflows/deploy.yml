@@ -4,8 +4,6 @@ on:
   push:
     branches: [ main ]
   workflow_dispatch:
-  pull_request:
-    types: [opened, synchronize, reopened]
 
 permissions:
   contents: write
@@ -13,24 +11,14 @@ permissions:
   id-token: write
 
 jobs:
-  validate-and-deploy:
+  deploy:
     runs-on: ubuntu-latest
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
-
     steps:
       - name: ⬇️ Checkout repository
         uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
-
-      - name: 📁 Validate JSON files
-        run: |
-          find ./depiction -name "*.json" -print0 | while IFS= read -r -d $'\0' file; do
-            echo "Validating $file..."
-            jq . "$file" > /dev/null || exit 1
-          done
 
       - name: 🛠️ Setup Pages
         uses: actions/configure-pages@v3
