@@ -446,23 +446,6 @@ Description: Multiple containers for your applications!
 Author: opa334
 Name: Crane
 
-Package: com.yourname.wamultisend
-Version: 1.0.0-1+debug
-Architecture: iphoneos-arm64
-Maintainer: YourName
-Installed-Size: 172
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), firmware (<< 16.9)
-Filename: debs/com.yourname.wamultisend_1.0.0-1+debug_iphoneos-arm64.deb
-Size: 7650
-MD5sum: 12001b2f6e53ef5e86c26167b6a37613
-SHA1: b56c9c85086584ef0158b57e3847eea8226bbac2
-SHA256: 38efb6296cdc82659d4bb3ca707a54f0c0f44bf1ea08d9fa809e9a72b430d707
-Section: Tweaks
-Description: إرسال متعدد للواتساب بالضغط الطويل
-Tag: purpose::extension, compatible_min::ios15.0, compatible_max::ios16.9
-Author: YourName
-Name: WA MultiSend Rootless
-
 Package: dev.zero.wickedfr33
 Version: 2.0.3a
 Architecture: iphoneos-arm64
