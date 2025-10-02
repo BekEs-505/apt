@@ -446,6 +446,23 @@ Description: Multiple containers for your applications!
 Author: opa334
 Name: Crane
 
+Package: com.yourname.asplustool
+Version: 1.0-4+debug
+Architecture: iphoneos-arm64
+Maintainer: Your Name <youremail@example.com>
+Installed-Size: 148
+Depends: mobilesubstrate
+Filename: debs/com.yourname.asplustool_1.deb
+Size: 9488
+MD5sum: f7b88ba01904967ef83a086748a19e3d
+SHA1: 4174afa0c9d465f0603d138cb133d935dfc61c26
+SHA256: a28f83a7fc8f74035e45127029e4f942b908f052aac20806102956179c7bfd99
+Section: Utilities
+Description: Tool to inject welcome message into installed apps
+Author: Your Name
+Name: ASPlusTool
+Sileodepiction: https://raw.githubusercontent.com/BekEs-505/apt/refs/heads/main/depiction/com.yourname.wamultisend.json
+
 Package: dev.zero.wickedfr33
 Version: 2.0.3a
 Architecture: iphoneos-arm64
